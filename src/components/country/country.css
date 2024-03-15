@@ -1,0 +1,10 @@
+.flag-img{
+    width: 200px;
+    height: 100px;
+}
+.grid-span{
+    column-span: 1fr;
+    border: 1px solid tomato;
+    padding: 10px;
+    border-radius: 10px;
+}
